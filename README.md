@@ -11,3 +11,6 @@ Simple monthly budget app that tracks incomes and expenses for user.
 - Percentage of budget is displayed next to expense item
 - "x" button next to income or expense item allows user to remove item
 - Just a cool little project
+
+## Live repo 
+https://pjc2010.github.io/budget-app/
